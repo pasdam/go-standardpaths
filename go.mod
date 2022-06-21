@@ -6,5 +6,5 @@ go 1.14
 
 require (
 	github.com/pasdam/mockit v0.0.0-20200426095748-c5169a16a8b6
-	github.com/stretchr/testify v1.7.1
+	github.com/stretchr/testify v1.7.4
 )
